@@ -1,0 +1,15 @@
+.gallery {
+  color: white;
+}
+.gridContainer {
+  margin: 0% auto;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: space-evenly;
+  background-color: black;
+  row-gap: 20px;
+}
+.gridItem {
+  background-color: black;
+}

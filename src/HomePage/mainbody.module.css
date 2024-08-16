@@ -1,0 +1,40 @@
+.header_body {
+  color: white;
+  background-image: url("../images/Homepage.jpg");
+  width: 95%;
+  margin: 0px auto 40px auto;
+  height: 100vh;
+  background-size: cover;
+}
+.header_content {
+  padding-top: 300px;
+  text-align: center;
+}
+.header_content p {
+  margin-top: 30px;
+  padding: auto;
+  font-size: 20px;
+  text-align: center;
+}
+.main_button {
+  display: flex;
+  justify-content: center;
+  border-radius: 50px;
+  align-items: center;
+  border: none;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.main_gallery {
+  color: white;
+  width: 95%;
+  margin: 80px auto 40px auto;
+  background-size: cover;
+}
+.header_bottom {
+  display: flex;
+  width: 80%;
+  gap: 40px;
+  justify-content: space-evenly;
+  margin: 20px auto;
+}
